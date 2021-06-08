@@ -4,3 +4,4 @@
 - HTML
 - CSS
 - NORMALIZE
+## Если сайт не запустился добавьте на конце index.html
